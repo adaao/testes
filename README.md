@@ -11,4 +11,5 @@ C = 0m1.760s
 python = 0m48.911s
 javascript = 0m2.710s
 haskell = 0m18.965s
+java = 0m0.873s
 
